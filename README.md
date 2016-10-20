@@ -61,13 +61,13 @@ Weex由多个关键模块组成，分别是DSL transformer、JS Framework、HTML
 - Egret
 - Phaser
 
-我在极客学院搜了一下关于HTML5游戏开发的教程,展示了如上一些课程...
+在极客学院搜了一下关于HTML5游戏开发的教程,展示了如上一些课程...
 
 
 ### 两者比较
 
 
-HTML5的JS,CANVAS游戏主要面向是移动端，比如手机、iPad, 在PC上还不如FLASH， 我觉得PC上超越FLASH还是相当有难度，但是在移动设备上，因为有天然的屏障IOS(出自商业利益的考虑不支持FLASH，但支持HTML5, 安卓不用说了,全支持。移动设备终端上以后的html5会有更大空间.)， 再加上flash移动版不算太给力，随着硬件的提升以及HTML5各种特型浏览器支持度提高， HTML5不管是CANVAS还是SVG，都会有越来越多的应用的.
+HTML5的JS,CANVAS游戏主要面向是移动端，比如手机、iPad, 在PC上还不如FLASH， 在PC上超越FLASH还是相当有难度，但是在移动设备上，因为有天然的屏障IOS(出自商业利益的考虑不支持FLASH，但支持HTML5, 安卓不用说了,全支持。移动设备终端上以后的html5会有更大空间.)， 再加上flash移动版不算太给力，随着硬件的提升以及HTML5各种特型浏览器支持度提高， HTML5不管是CANVAS还是SVG，都会有越来越多的应用的.
 
 更过可以查看[曾嵘](https://www.zhihu.com/question/21985107)在知乎的回答.
 
@@ -83,7 +83,7 @@ HTML5的JS,CANVAS游戏主要面向是移动端，比如手机、iPad, 在PC上�
 - [iOS全景漫游](http://www.jianshu.com/p/e09646ebcc64)
 
 
-
+## Go语言
 
 
 
