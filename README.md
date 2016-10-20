@@ -85,10 +85,17 @@ HTML5的JS,CANVAS游戏主要面向是移动端，比如手机、iPad, 在PC上�
 
 ## Go语言
 
+首先来看下[十月编程语言排行榜](https://zhuanlan.zhihu.com/p/22842618).接着查看[在Github上活跃的开源计算机语言(居然没有Node?)](https://github.com/showcases/programming-languages),貌似Go语言还是很火? 
+
+貌似Go语言的前身是C语言(C语言相对还是比较熟悉),查看[我们为什么选择了Go语言](http://kevin.doyeden.com/2016/09/24/why-we-choose-go/)可以清晰直观的了解到Go语言的设计理念. 同时从'世界上最好的语言(PHP)'转到'世界上另一个最好的语言'的人深刻讲述了[我为什么选择使用Go语言？](https://www.sdk.cn/news/2836),使我们对Go语言有一个更深刻的认识和了解.
 
 
+选用Atom作为Go语言的IDE,[给Python开发者的Go语言入门指南](http://mp.weixin.qq.com/s?__biz=MzI0NjIxMzE5OQ==&mid=2656697874&idx=1&sn=5c0964e436fe4e16aad3e83e5403c528#rd).
+
+[D语言、GO语言、Rust语言，谁更有前途？](https://www.sdk.cn/news/3058)说明了Go语言和其他语言的有一些比较.
 
 
+知乎上关于[nodejs与go语言比较如何，它们的发展前景怎样，网站后台开发，选择nodejs好还是go好？](https://www.zhihu.com/question/24378012)的见解. 貌似Node容易上手,但是Node限制较多,从扩展性考虑Go的扩展性比Node强,可以搭出更大的架子.
 
 
 
