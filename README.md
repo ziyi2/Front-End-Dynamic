@@ -1,6 +1,6 @@
 # Front-End-Dynamic
 
-本文主要搜集一些前端的前沿技术.
+本文主要搜集一些前端的前沿技术. - 2016/10/20
 
 ## vue/weex简单介绍
 
@@ -77,7 +77,7 @@ HTML5的JS,CANVAS游戏主要面向是移动端，比如手机、iPad, 在PC上�
 [10款经典的H5游戏及源码](http://www.html5tricks.com/10-html5-game-with-code.html) 
 
 
-### 全景技术
+## 全景技术
 
 - [打造H5里的“3D全景漫游”秘籍](https://isux.tencent.com/3d.html)
 - [iOS全景漫游](http://www.jianshu.com/p/e09646ebcc64)
